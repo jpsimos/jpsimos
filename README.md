@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Jacob.
+- 👀 I’m interested in engineering of computers and the physics of electricity
+- 🌱 I’m currently learning as much as I can
+- 💞️ I’m looking to collaborate on becoming a better version of myself
+- 📫 jpsimos@gmail.com
